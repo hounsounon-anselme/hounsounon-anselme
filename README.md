@@ -17,7 +17,7 @@ I'am a Full Stack Software Engineer who enjoys improving people's lives through 
 
 - 🌱 I am currently in **Master Computer's science** at **IMSP**
 
-- 🌱 I’m currently learning **Full-stack Web Development at Udcity**
+- 🌱 I’m currently learning **Full-stack Web Development at Udacity**
 
 - 👯 I’m looking to collaborate on **projects relating to Programming**
 
